@@ -1,6 +1,6 @@
 on:
   commit_comment:
-  branches:
+    branches:
     - master
   push:
     branches:
