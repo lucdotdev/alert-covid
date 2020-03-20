@@ -1,0 +1,26 @@
+{
+  "tuto_title_1": "Wash your hands frequently",
+  "tuto_title_2": "Avoid close contact",
+  "tuto_title_3": "Avoid touching your eyes, nose and mouth",
+  "tuto_body_1": "Wash your hands frequently with a hydroalcoholic solution or with soap and water",
+  "tuto_body_2": "Maintain a distance of at least 1 meter from other people, especially if they cough, sneeze or have a fever.",
+  "tuto_body_3": "Why? The hands are in contact with many surfaces that may be contaminated with the virus. If you touch your eyes, nose or mouth, you may be in contact with the virus on these surfaces.",
+  "salutation_1": "Hello !",
+  "salutation_2": "Good evening!",
+  "home_button_1": "More information",
+  "home_button_2": "Report a case",
+  "home_button_3": "WHO recommendation",
+  "report_symp_title" : "What symptoms do you have?",
+  "report_symp_1": "runny nose",
+  "report_symp_2": "sore throat",
+  "report_symp_3":"Fever",
+  "report_inf_title": "Your informations :",
+  "report_inf_1" : "Last name",
+  "report_inf_2": "City",
+  "report_inf_3": "Phone",
+  "report_inf_send": "Send",
+  "report_inf_true": "Reussi",
+  "report_inf_true_msg": "Your request has been received, we will contact you later"
+
+
+}

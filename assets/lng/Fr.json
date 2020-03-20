@@ -1,0 +1,26 @@
+{
+  "tuto_title_1": "Se laver fréquemment les mains\n",
+  "tuto_title_2": "Éviter les contacts proches",
+  "tuto_title_3": "Éviter de se toucher les yeux, le nez et la bouche.",
+  "tuto_body_1": "Se laver fréquemment les mains avec une solution hydroalcoolique ou à l’eau et au savon\n\n",
+  "tuto_body_2": "Maintenir une distance d’au moins 1 mètre avec les autres personnes, en particulier si elles toussent, éternuent ou ont de la fièvre.\n\n",
+  "tuto_body_3": "Pourquoi? Les mains sont en contact avec de nombreuses surfaces qui peuvent être contaminées par le virus. Si vous vous touchez les yeux, le nez ou la bouche, vous risquez d’être en contact avec le virus présent sur ces surfaces.",
+  "salutation_1": "Bonjour !",
+  "salutation_2": "Bonsoir !",
+  "home_button_1": "Plus d'informations",
+  "home_button_2": "Signaler un cas",
+  "home_button_3": "Recommendation de l'OMS",
+  "report_symp_title" : "Quelle symptomes avez vous ?",
+  "report_symp_1": "écoulement nasal (nez qui coule)",
+  "report_symp_2": "mal de gorge",
+  "report_symp_3":"Fièvre",
+  "report_inf_title": "Vos Informations :",
+  "report_inf_1" : "Nom",
+  "report_inf_2": "Ville",
+  "report_inf_3": "Télephone",
+  "report_inf_send": "Envoyer",
+  "report_inf_true": "Reussi",
+  "report_inf_true_msg": "Votre requête a bien été reçu, nous vous contacterons ultérieurement"
+
+
+}
