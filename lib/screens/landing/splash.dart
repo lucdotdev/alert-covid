@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:covid/screens/landing/landing.dart';
-import 'file:///C:/Users/Acer/Desktop/covid/lib/screens/landing/language_choose.dart';
+import '../landing/language_choose.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
