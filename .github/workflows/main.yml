@@ -1,7 +1,4 @@
 on:
-  commit_comment:
-    branches:
-    - master
   push:
     branches:
     - master
