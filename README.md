@@ -1,6 +1,8 @@
-# covid
+# Rdc Covid
 
-A new Flutter application.
+![Build](https://github.com/luc-dotcom/alert-covid/workflows/Test,%20Build%20and%20Release%20apk/badge.svg)
+
+flutter covid app 
 
 ## Getting Started
 
