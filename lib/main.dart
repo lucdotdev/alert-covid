@@ -1,7 +1,5 @@
-import 'package:covid/screens/landing/landing.dart';
-import 'package:covid/screens/landing/language_choose.dart';
+                                                                                        
 import 'package:covid/screens/landing/splash.dart';
-import 'package:covid/utils/lang.dart';
 import 'package:flutter/material.dart';
 
 void main() {
