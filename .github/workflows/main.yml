@@ -22,3 +22,4 @@ jobs:
         channel: 'beta'
     - run: flutter pub get
     - run: flutter build apk --debug --split-per-abi
+      
