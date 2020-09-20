@@ -10,4 +10,10 @@ flutter covid app
 
 <img src="screenshot/Screenshot_20200320-101509.jpg" alt="drawing" width="200"/>
 
+# Authors
+Luc Mwansa
+
+# License MIT
+
+
 
